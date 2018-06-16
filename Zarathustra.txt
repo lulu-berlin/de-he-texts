@@ -15,7 +15,7 @@ Ein Buch für Alle und Keinen
 
 = Zarathustra's Vorrede.
 = פֵּתַח־דִּבְרֵי סָרַתּוּסְטְרָא.
-# 1
+# 1.
 # א.
 Als Zarathustra dreissig Jahr alt war, verliess er seine Heimat und den See seiner Heimat und gieng in das Gebirge.
 וַיְהִי בִהְיוֹת סָרַתּוּסְטְרָא בֶּן‏־שְׁלֹשִׁים שָׁנָה, וַיַעֲזֹב אֶת־מוֹלַדְתּוֹ וְאֶת־נַחַל מוֹלַדְתּוֹ וַיֵּלֵךְ אֶל הֶהָרִים.
@@ -23,7 +23,7 @@ Hier genoss er seines Geistes und seiner Einsamkeit und wurde dessen zehn Jahr n
 שָׁם הָיָה עַל־רוּחוֹ וְעַל־בְּדִידוּתוֹ וְלֹא שָׂבַע אוֹתָן עֶשֶׂר שָׁנִים.
 Endlich aber verwandelte sich sein Herz, - und eines Morgens stand er mit der Morgenröthe auf, trat vor die Sonne hin und sprach zu ihr also:@
 וּמִקֵּץ הַיָּמִים הָאֵלֶּה נֶהְפַּךְ עָלָיו לִבּוֹ, - וַיְהִי בֹקֶר־יוֹם וַיַּשְׁכֵּם עִם־הַשַּׁחַר וַיֵּצֵא אֶל־הַשֶּׁמֶשׁ וַיְדַבֵּר אֵלֶיהָ לֵאמֹר:@
-„Du grosses Gestirn!
+»Du grosses Gestirn!
 „אַתָּה הַכֹּכָב הַגָּדוֹל!
 Was wäre dein Glück, wenn du nicht Die hättest, welchen du leuchtest!
 גַּם אָשְׁרְךָ כְלֹא־הָיָה, לוּלֵא הָיוּ אֵלֶּה אֲשֶׁר לָהֶם אַתָּה מֵאִיר!
@@ -39,3 +39,118 @@ Ich möchte verschenken und austheilen, bis die Weisen unter den Menschen wieder
 נָתֹן חָפַצְתִּי וּפַזֵּר, עַד־אִם יָשׁוּבוּ הַחֲכָמִים בֵּין הָאָדָם לִשְׂמוֹחַ עַל־אִוַּלְתָּם וַעֲנִיִּים יָשׁוּבוּ לִשְׂמוֹחַ עַל־עָשְׁרָם.@
 Dazu muss ich in die Tiefe steigen: wie du des Abends thust, wenn du hinter das Meer gehst und noch der Unterwelt Licht bringst, du überreiches Gestirn!@
 וְלָכֵן הָבוּ אֵרְדָה לְמַעֲמַקִּים: כַּמַּעֲשֶׂה אֲשֶׁר אַתָּה עֹשֶׂה בָּעֶרֶב בְּבוֹאֲךָ אֶל־מֵאַחֲרֵי הַיָּם וְאֶת־אוֹרְךָ אַתָּה מֵבִיא גַם לְיוֹשְׁבֵי תַחְתִּית – אַתָּה הַכֹּכָב גְּדָל הָעֹשֶׁר!@
+Ich muss, gleich dir, untergehen, wie die Menschen es nennen, zu denen ich hinab will.@
+כָּמוֹךָ אֶשְׁקַע גַם אֲנִי – כַּאֲשֶׁר יֹאמְרוּ בְנֵי הָאָדָם בִּשְׂפָתָם, אֲשֶׁר אֲלֵיהֶם אֲנִי יוֹרֵד.@
+So segne mich denn, du ruhiges Auge, das ohne Neid auch ein allzugrosses Glück sehen kann!@
+הָבָה אֵפֹא בָרְכֵנִי נָא, כְּלִיל הָעַיִן הַשּׁוֹקֶטֶת, אֲשֶׁר תַּבִּיט אשֶׁר גַּם בְּגָדְלוֹ וְקַנֵּא לֹא תְקַנֵּא בוֹ!
+Segne den Becher, welche überfliessen will, dass das Wasser golden aus ihm fliesse und überallhin den Abglanz deiner Wonne trage!@
+בָּרֵךְ אֶת־הַכּוֹס, אֲשֶׁר מְעַט עוֹד וְעָבְרָה שְׂפָתָה, אָז יִזְּלוּ מֵימֶיהָ כְּעֵין הַזָּהָב וְנָשְׂאוּ אֶל כָּל עֵבֶר אֶת זִיו נְעִימוֹתֶיךָ!@
+Siehe!
+רְאֵה!
+Dieser Becher will wieder leer werden, und Zarathustra will wieder Mensch werden.«@
+הַכּוֹס הַזֹּאת תָּשׁוּב וְהָיְתָה רֵיקָה וסָרַתּוּסְטְרָא יָשׁוּב וְהָיָה אָדָם״.@
+- Also begann Zarathustra's Untergang.@
+- כָּכָה הֵחֵל סָרַתּוּסְטְרָא לִשְׁקוֹעַ.@
+
+***
+
+# 2.
+# ב.
+Zarathustra stieg allein das Gebirge abwärts und Niemand begegnete ihm.
+וְסָרַתּוּסְטְרָא יָרַד מִן הֶהָרִים לְבַדּוֹ וְלֹא מָצָא אוֹתוֹ אִישׁ.
+Als er aber in die Wälder kam, stand auf einmal ein Greis vor ihm, der seine heilige Hütte verlassen hatte, um Wurzeln im Walde zu suchen.
+אָכֵן בְּבֹאוֹ עַד הַיְעָרוֹת וַיַּרְא פִּתְאֹם וְהִנֵּה אִישׁ זָקֵן עוֹמֵד עָלָיו, אֲשֶׁר עָזַב סֻכָּתוֹ הַקְּדוֹשָׁה לְבַעֲבוּר בַּקֵּשׁ שָׁרָשִׁים בַּיָּעַר.
+Und also sprach der Greis zu Zarathustra:@
+וַיֹּאמֶר הַזָּקֵן אֶל סָרַתּוּסְטְרָא וַיְדַבֵּר לֵאמֹר:@
+Nicht fremd ist mir dieser Wanderer: vor manchen Jahre gieng er her vorbei.
+„לֹא זָר לִי הָיִיתָ, הַהֵלֶךְ: כִּי עַל־כֵּן עָבַרְתָּ פֹּה עַל־פָּנַי זֶה שָׁנִים אֲחָדוֹת.
+Zarathustra hiess er; aber er hat sich verwandelt.
+אָז הָיָה שִׁמְךָ סָרַתּוּסְטְרָא, וְאוּלָם עַתָּה נֶהְפַּכְתָּ.@
+Damals trugst du deine Asche zu Berge: willst du heute dein Feuer in die Thäler tragen?
+בַּיָּמִים הָהֵם נָשָׂאתָ אֶת־אֶפְרְךָ אֶל הֶהָרִים: הֲתֹאמַר לָשֵׂאת עַתָּה אֶת־אֶשְׁךָ אֶל הָעֲמָקִים?
+Fürchtest du nicht des Brandstifters Strafen?@
+אִם לֹא יָרֵאתָ כִּי יְיַסְרוּךָ כְּמִשְׁפַּט מַבְעִיר אֶת הַבְּעֵרָה?@
+Ja, ich erkenne Zarathustra.
+אָכֵן הִכָּרְתִּי אֶת סָרַתּוּסְטְרָא,
+Rein ist sein Auge, und an seinem Munde birgt sich kein Ekel.
+הִנֵּה עֵינוֹ טְהוֹרָה וְאֶל־פִּיו לֹא דָבַק סֶחִי.
+Geht er nicht daher wie ein Tänzer?@
+הַאֵין זֶה כִי הוּא הוֹלֵךְ כַּהוֹלֵךְ בַּמָּחוֹל?@
+Verwandelt ist Zarathustra, zum Kind ward Zarathustra, ein Erwachter ist Zarathustra: was willst du nun bei den Schlafenden?@
+נֶהְפַּךְ סָרַתּוּסְטְרָא, לְיֶלֶד הָיָה סָרַתּוּסְטְרָא, שָׁב וְנֵעוֹר סָרַתּוּסְטְרָא: מַה־לְךָ אֶל הַיְשֵׁנִים?@
+Wie im Meere lebtest du in der Einsamkeit, und das Meer trug dich.
+כְּחַי בְּתוֹךְ הַיָּם הָיְיתָ בִּבְדִידָתְךָ, וְהַיָּם נָשָׂא אוֹתְךָ.
+Wehe, du willst an's Land steigen?
+אוֹי לִי כִּי אָמַרְתָּ לָצֵאת אֶל הַיַּבָּשָׁה!
+Wehe, du willst deinen Leib wieder selber schleppen?@
+אוֹי לִי כִּי אָמַרְתָּ לָשׁוּב וְלָשֵׂאת בְּשָׂרְךָ בְּעַצְמֶךָ!״@
+Zarathustra antwortete:
+וַיַּעַן סָרַתּוּסְטְרָא וַיֹּאמַר:
+»Ich liebe die Menschen.«@
+„אָכֵן אָהַבְתִּי אֶת־בְּנֵי הָאָדָם״.
+Warum, sagte der Heilige, gieng ich doch in den Wald und die Einöde?
+אָז עָנָה הַקָּדוֹשׁ: „לָמָּה בָאתִי אֵפֹא אֶל־הַיַּעַר וְאֶל־הַמִּדְבָּר?
+War es nicht, weil ich die Menschen allzu sehr liebte?@
+הַאִם לֹא מֵאַהֲבָתִי הָרַבָּה אֲשֶׁר אָהַבְתִּי אֶת־הָאָדָם?@
+Jetzt liebe ich Gott: die Menschen liebe ich nicht.
+עַתָּה הִנֵּה אָהַבְתִּי אֶת־הָאֱלֹהִים: וְאֶת־בְּנֵי הָאָדָם לֹא יָסַפְתִּי לְאַהֲבָה.
+Der Mensch ist mir eine zu unvollkommene Sache.
+רָאִיתִי וְהִנֵּה הָאָדָם כְּלִי אֲשֶׁר אֵינֶנּוּ שָׁלֵם.
+Liebe zum Menschen würde mich umbringen.@
+אָכֵן אַהֲבָתִי לָאָדָם רַק הָמִית תָּמִית אוֹתִי״.@
+Zarathustra antwortete:
+וְסָרַתּוּסְטְרָא עָנָה:
+»Was sprach ich von Liebe!
+„לָמָּה אָמַרְתִּי כִּי אָהַבְתִּי!
+Ich bringe den Menschen ein Geschenk.«@
+רַק שַׁי אֲנִי מֵבִיא לִבְנֵי־הָאָדָם״.@
+Gieb ihnen Nichts, sagte der Heilige.
+וַיַּעַן הַקָּדוֹשׁ וַיֹּאמַר: „אַל תִּתֵּן לָהֵם דָּבָר.
+Nimm ihnen lieber Etwas ab und trage es mit ihnen – das wird ihnen am wohlsten thun: wenn es dir nur wohlthut!@
+טוֹב כִּי תְחַסֵּר מֵהֶם מְעַט וְגַם אֶת הַמְּעַט הַנִּשְׁאָר לָהֶם תִּשָּׂא עִמָּהֶם – כִּי כָכָה תֵיטִיב עִמָּם מְאֹד: וְלוּ רַק יִיטַב גַּם לְךָ!@
+Und willst du ihnen geben, so gieb nicht mehr, als ein Almosen, und lass sie noch darum betteln!@
+וְאִם יֶשׁ עִם נַפְשְׁךָ לָתֶת־לָהֶם, אַל תִּתֵּן בִּלְתִּי אִם נְדָבָה, וְגַם בָּזֹאת תְּחַכֶּה עַד יוֹשִׁיטוּ יָד לְבַקְּשָׁהּ!״@
+»Nein, antwortete Zarathustra, ich gebe kein Almosen.
+וְסָרַתּוּסְטְרָא אָמַר: „אֵינֶנִּי נוֹתֵן נְדָבוֹת.
+Dazu bin ich nicht arm genug.«@
+אָמְנָם לַדָּבָר הַזֶּה אֵינֶנִּי עָנִי לְמַדָּי".@
+Der Heilige lachte über Zarathustra und sprach also:
+וַיִּשְׁחַק הַקָּדוֹשׁ עַל סָרַתּוּסְטְרָא וַיֹּאמַר:
+So sieh zu, dass sie deine Schätze annehmen!
+כִּי עַתָּה הִשָּׁמֵר פֶּן יְמָאֲנוּ לָקַחַת אֶת אוֹצָרְךָ!
+Sie sind misstrauisch gegen die Einsiedler und glauben nicht, dass wir kommen, um zu schenken.@
+אֵין הֵם בּוֹטְחִים בְּמִתְבּוֹדְדִים וְאֵין הֵם מַאֲמִינִים כִּי בָּאנוּ לְבַעֲבוּר תֵּת.@
+Unsre Schritte klingen ihnen zu einsam durch die Gassen.
+כְּשָׁמְעָם אֶת צְעָדֵינוּ, וְהָיוּ לָהֶם הַקּוֹלוֹת בּוֹדְדִים עַד לִמְאֹד בִּרְחוֹבוֹת.
+Und wie wenn sie Nachts in ihren Betten einen Mann gehen hören, lange bevor die Sonne aufsteht, so fragen sie sich wohl: wohin will der Dieb?@
+וְהָיָה כְמִשְׁפַּט שָׁכְבָם עַל מִשְׁכָּבָם בַּלֵּילוֹת וּכְשָׁמְעָם קוֹל צַעֲדֵי אִישׁ לִפְנֵי עֲלוֹת הַשַּׁחַר, אָז יִשְׁאֲלוּ אֶת־לִבָּם: לְאָן הוֹלֵךְ הַגַּנָּב?@
+Gehe nicht zu den Menschen und bleibe im Walde!
+אַל תֵּלֵך אֶל־בְּנֵי הָאָדָם, כִּי אִם שֵׁב תַּחְתֶּיךָ בְּתוֹךְ הַיַּעַר!
+Gehe lieber noch zu den Thieren!
+טוֹב לָלֶכֶת אֶל־הַחַיָּה מִלֶּכֶת אֶל־בְּנֵי הָאָדָם!
+Warum willst du nicht sein, wie ich, – ein Bär unter Bären, ein Vogel unter Vögeln?@
+לָמָּה לֹא חָפַצְתָּ לִהְיוֹת כָּמוֹנִי, – דֹּב בְּקֶרֶב דֻּבִּים, צִפּוֹר בְּקֶרֶב צִפָּרִים?״@
+»Und was macht der Heilige im Walde?« fragte Zarathustra.@
+אָז שָׁאַל סָרַתּוּסְטְרָא: „מָה אַתָּה עֹשֶׂה בְתוֹךְ הַיָּעַר?״@
+Der Heilige antwortete:
+וְהַקָּדוֹשׁ עָנָה וְאָמָר:
+Ich mache Lieder und singe sie, und wenn ich Lieder mache, lache, weine und brumme ich: also lobe ich Gott.@
+„עוֹשֶׂה אֲנִי זְמִירוֹת וּמְזַמֵּר אוֹתָן, וּבַעֲשׂוֹתִי אֶת־הַזְּמִירוֹת, אָז אֶשְׂחַק וְאֶבְכֶּה וְאֶהֱמֶה: וּבָזּאת אֶעֱבוֹד אֶת-אֱלֹהִים.@
+Mit Singen, Weinen, Lachen und Brummen lobe ich den Gott, der mein Gott ist. Doch was bringst du uns zum Geschenke?@
+בְּזַמְרִי וּבִבְכוֹתִי וּבְשַׂחֲקִי וּבַהֲמוֹתִי אָנֹכִי עוֹבֵד אֶת־אֱלֹהִים אֲשֶׁר הוּא אֱלֹהָי וְאוּלָם אַתָּה הֲלֹא תַגֵּד אֵי־זֶה שַׁי אַתָּה נוֹתֵן לָנוּ?״@
+Als Zarathustra diese Worte gehört hatte, grüsste er den Heiligen und sprach:
+וְכִשְׁמוֹעַ סָרַתּוּסְטְרָא אֶת־הַדְּבָרִים, וַיְמַהֵר וַיְבָרֶך אֶת־הַקָּדוֹשׁ וַיֹּאמַר:
+»Was hätte ich euch zu geben!
+„מַה־לִּי כִּי אֶתֶּן־לָכֶם!
+Aber lasst mich schnell davon, dass ich euch Nichts nehme!« –
+ הַנִּיחוּ־לִי וְאֶחְפֹּז מִזֶּה, פֶּן אֶקַּח עוֹד מֵאֲשֶׁר לָכֶם!״
+Und so trennten sie sich von einander, der Greis und der Mann, lachend, gleichwie zwei Knaben lachen.@
+ – אָז נִפְרְדוּ שְׁנֵיהֶם, הַזָּקֵן וְהָאִישׁ, אִישׁ מֵעַל אָחִיו, וְהֵם מְשַׂחֲקִים כַּאֲשֶׁר יִשְׂחֲקוּ שְׁנֵי נְעָרִים.@
+Als Zarathustra aber allein war, sprach er also zu seinem Herzen:
+אוּלָם בִּהְיוֹת סָרַתּוּסְטְרָא לְבַדּוֹ, אָז יְדַבֵּר אֶל־לִבּוֹ לֵאמֹר:
+»Sollte es denn möglich sein!
+מִי פִלֵּל לַדָּבָר אֲשֶׁר כָּזֶה!
+Dieser alte Heilige hat in seinem Walde noch Nichts davon gehört, dass Gott todt ist!« –@
+הִנֵּה הַקָּדוֹשׁ הַזֶּה יוֹשֵׁב בְּתוֹךְ יַעֲרוֹ, וְלֹא שָׁמַע עַד הַיּוֹם הַזֶּה דָבָר מִן הַדְּבָרִים כִּי מֵת הָאֱלֹהִים!" –@
+
+***
